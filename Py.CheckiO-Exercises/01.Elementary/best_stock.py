@@ -1,6 +1,5 @@
 def best_stock(data):
-    # your code here
-    return max(data, key = lambda k: data[k])
+    return max(data, key=lambda k: data[k])
 
 
 if __name__ == '__main__':
