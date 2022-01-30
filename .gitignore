@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+Py.CheckiO-Exercises/.idea/misc.xml
+Py.CheckiO-Exercises/.idea/modules.xml
+Py.CheckiO-Exercises/.idea/Py.CheckiO-Exercises.iml
+Py.CheckiO-Exercises/.idea/vcs.xml
