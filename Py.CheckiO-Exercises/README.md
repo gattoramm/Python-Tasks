@@ -49,6 +49,14 @@ Elementary+
 
 </details>
 
-[Electronic Station](https://py.checkio.org/station/electronic-station/)
+[Electronic Station](https://py.checkio.org/station/electronic-station/) (2%)
 
-> True or False, that is the question! And for most of the missions here you'll have to figure out the answer.
+True or False, that is the question! And for most of the missions here you'll have to figure out the answer.
+
+<details><summary><b>Exercises</b></summary>
+
+Elementary+
+
+* Digits Multiplication - How to work with numbers by non standard way.
+
+</details>
