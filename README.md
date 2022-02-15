@@ -1,6 +1,6 @@
 ## Решенные задачи с различных проектов
 
-### [Py.CheckiO-Exercises](Py.CheckiO-Exercises)
+### [Py.CheckiO-Exercises](Py.CheckiO-Exercises/README.md)
 
 Задачи с проекта **Checkio** - py.checkio.org
 
@@ -10,11 +10,11 @@ Coding games for beginners and advanced programmers where you can improve your c
 
 </details>
 
-### [Py.CheckiO-Exercises](Python-Any-Tasks)
+### [Py.CheckiO-Exercises](Python-Any-Tasks/README.md)
 
 Различные решенные задачи на разные темы
 
-### [Python-Course-From-Dataquest](Python-Course-From-Dataquest)
+### [Python-Course-From-Dataquest](Python-Course-From-Dataquest/README.md)
 
 Задачи с проекта **Dataquest** - dataquest.io
 
@@ -24,7 +24,7 @@ Coding games for beginners and advanced programmers where you can improve your c
 
 </details>
 
-### [Python-Course-From-Treehouse](Python-Course-From-Treehouse)
+### [Python-Course-From-Treehouse](Python-Course-From-Treehouse/README.md)
 
 Задачи с проекта **Treehouse** - teamtreehouse.com
 
