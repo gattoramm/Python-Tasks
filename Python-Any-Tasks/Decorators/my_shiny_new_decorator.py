@@ -18,14 +18,21 @@ if __name__ == "__main__":
         print("1")
 
 
+    def a_stand_alone_function2():
+        print("2")
+
+
     a_stand_alone_function = my_shiny_new_decorator(a_stand_alone_function)
     a_stand_alone_function()
     print("---------------")
 
+    my_shiny_new_decorator(a_stand_alone_function2)()
+    print("////////////////")
 
     @my_shiny_new_decorator
     def another_stand_alone_function():
         print("Оставь меня в покое")
 
 
+    print("*****************")
     another_stand_alone_function()
