@@ -1,4 +1,5 @@
 ## 2. Defining the Dataset Class ##
+import csv
 
 
 class Dataset:
