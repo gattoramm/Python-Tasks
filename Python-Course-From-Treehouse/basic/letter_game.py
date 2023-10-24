@@ -43,7 +43,6 @@ def draw(bad_guesses, good_guesses, secret_word):
     print('')
     
 
-    
 def get_guess(bad_guesses, good_guesses):
     while True:
         guess = input("Guess a letter: ").lower()
@@ -102,10 +101,9 @@ def welcome():
     else:
         return True
 
+
 print('Welcome to Letter Guess!')
-
 done = False
-
 while True:
     clear()
     welcome()

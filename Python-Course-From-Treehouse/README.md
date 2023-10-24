@@ -1,5 +1,6 @@
-# Exercises from the course Treehouse.io
-* [link](basic/letter_game.py) Игра "Угадай слово"
-* [link](basic/letter_game.py) Игра "Угадай число"
-* [link](basic/shopping_list.py) Игра "Список покупок"
-* [link](basic/shopping_list_2.py) Игра "Улучшенный список покупок"
+## Упражнения из курса Treehouse.io
+
+* [Игра "Угадай слово"](basic/letter_game.py)
+* [Игра "Угадай число"](basic/number_game.py)
+* [Игра "Список покупок"](basic/shopping_list.py)
+* [Игра "Улучшенный список покупок"](basic/shopping_list_2.py)
