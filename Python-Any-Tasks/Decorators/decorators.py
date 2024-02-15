@@ -1,4 +1,5 @@
 def dec(foo=None):
+    print('in dec')
     return foo
 
 
@@ -12,5 +13,5 @@ def func2(n: int = 200) -> int:
 
 
 if __name__ == "__main__":
-    print("Декорируем функцию в функцию без @: ", dec(5))
+    # print("Декорируем функцию в функцию без @: ", dec(5))
     print("Декорируем функцию в функцию через @: ", func2())
